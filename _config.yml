@@ -32,8 +32,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minimal-mistakes-jekyll
-
 minimal_mistakes_skin    : "contrast"
+exclude: src
+
 
 
 # Exclude from processing.
