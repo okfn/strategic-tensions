@@ -4,4 +4,18 @@ layout: home
 ---
 
 
-# Hola
+![](assets/StrategicTensions_logo.png){:class="logo"}
+
+A group of long-term experts, producers, and organizers of the Digital Commons (gender-balanced albeit Western-centric) gathered in Berlin in May 2023 to discuss and strategize about the future of the open movement through a three-day session. The group came to a series of conclusions that may serve as a base to better nurture and defend the Digital Commons.
+
+The report presented here serves as one step, summarizing and contextualizing said conclusions. It could also, potentially, be used as a tool for advocacy, organization, and action in the future.
+
+[Read the Report](/report.html){: .btn .btn--primary .btn--large}
+
+[Download as PDF (1.9 Mb)](/assets/Problematizing_Strategic_Tensions_in_the_Digital_Commons.pdf){: .btn .btn--info .btn--large}
+
+We welcome feedback and reflection that the report might provoke.
+
+Please share any thoughts you might have by writing to <a href="mailto:xyz@xyz.eu">xyz@xyz.eu</a>.
+
+
