@@ -1,0 +1,2 @@
+# Docker image to use for building
+image: jekyll/jekyll:4.3
