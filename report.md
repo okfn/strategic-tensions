@@ -1,24 +1,28 @@
 ---
-title:  PROBLEMATIZING STRATEGIC TENSION LINES IN THE DIGITAL COMMONS 
-subtitle: A "Final" Draft - v0.999 - 20230812
+title:  Problematizing Strategic Tension Lines in the Digital Commons 
 layout: single
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
 ---
- 
+
+<div class="subtitle">A "Final" Draft - v0.999 - 20230812</div>
+
+![](assets/StrategicTensions_logo.png){:class="logo"}
+
+* [Context and background](#context-and-background)
+* [The "Digital Commons"?](#the-digital-commons)
+* [Problematization](#problematization)
+* [The strategic lines of tension](#the-strategic-lines-of-tension)
+* [Politics](#politics)
+  + [Questions arising on the political tension line](#questions-arising-on-the-political-tension-line)
+* [Socio-economics](#socio-economics)
+  + [Questions arising on the socio-economic tension line](#questions-arising-on-the-socio-economic-tension-line)
+* [Equitable participation](#equitable-participation)
+  + [Questions arising on the "participation" tension line](#questions-arising-on-the-participation-tension-line)
+* [Boundaries of the movements](#boundaries-of-the-movements)
+  + [Questions arising on the "boundaries of the movements" tension line](#questions-arising-on-the-boundaries-of-the-movements-tension-line)
+* [Next steps](#next-steps)
 
  
 
- 
-
-![](assets/StrategicTensions_logo.png){width=25% margin=auto .center}
 
 
 
@@ -48,7 +52,7 @@ The Digital Commons are a sphere that is much larger than the production of free
 - Policy and Digital Participation.
 
 
-![](assets/Digital_Commons_Sphere.jpg){width=65% margin=auto .center}
+![](assets/Digital_Commons_Sphere.jpg)
 
  
 
@@ -99,7 +103,7 @@ Each tension line is accompanied by a list of questions. They must be seen as ex
 
 ## POLITICS
 
-![](assets/StrategicTension_political.png){width=60% margin=auto .center}
+![](assets/StrategicTension_political.png)
 
 **The way projects or communities within the Digital Commons define their political line and values, and work towards them.** This work includes advocacy.
 
@@ -135,7 +139,7 @@ Tools, platforms and spaces accessible to wider audiences tend to be presented a
 
 ## SOCIO-ECONOMICS
 
-![](assets/StrategicTension_socio-economic.png){width=60% margin=auto .center}
+![](assets/StrategicTension_socio-economic.png)
 
 **The influence of socio-economic parameters on the digital commons, its communities and participants.** How funding (or the absence thereof) and sector-specific economic models actively shape for better or worse access to, and the production of digital commons. How does this affect collaboration, cooperation, the circulation of knowledge, and the willingness to participate in these systems of production?
 
@@ -166,7 +170,7 @@ At a time where platforms in which digital commons are produced and distributed,
 
 ## EQUITABLE PARTICIPATION 
 
-![](assets/StrategicTension_participation.png){width=60% margin=auto .center}
+![](assets/StrategicTension_participation.png)
 
 **How participation exists within a project, community or entire field on a gradient ranging from "participation-washing" (seen here as token, meaningless actions left for participation, tailored -consciously or unconsciously- to leave no meaningful possibility to impulse change) to a meaningful participation where everyone has access to problematization.** 
 
@@ -195,7 +199,7 @@ Sometimes a perceived absence of governance amounts to leaving it to the dominan
 
 ## BOUNDARIES OF THE MOVEMENTS
 
-![](assets/StrategicTension_movements.png){width=60% margin=auto .center}
+![](assets/StrategicTension_movements.png)
 
 **The notion of “universal openness” (all things and data should be opened, published, etc.) along with other rights, other visions and other movements.** 
 
@@ -234,7 +238,7 @@ They could potentially also become a tool for analysis of projects for academics
  
 
 
-![Mockup evaluation of project XYZ through the spectrum of the strategic tensions](./StrategicTensionsWithinProjectXYZ.png)
+![Mockup evaluation of project XYZ through the spectrum of the strategic tensions](/assets/StrategicTensionsWithinProjectXYZ.png)
 
 *fig.1: Mockup evaluation of project XYZ through the spectrum of the strategic tensions*
 
