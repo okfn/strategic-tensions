@@ -16,6 +16,25 @@ The report presented here serves as one step, summarizing and contextualizing sa
 
 We welcome feedback and reflection that the report might provoke.
 
-Please share any thoughts you might have by writing to <a href="mailto:xyz@xyz.eu">xyz@xyz.eu</a>.
+Please share any thoughts you might have by writing to <a href="mailto:contact@tensionsincommons.net">contact@tensionsincommons.net</a>.
 
 
+<div class="wrapper">
+  <div>
+    <a href="https://okfn.org" rel="noreferrer noopener">
+      <img src="assets/logo-okfn.svg" alt="Open Knowledge Foundation" class="logo-org logo-org-pad" />
+    </a>
+  </div>
+
+  <div>
+    <a href="https://meta.wikimedia.org/wiki/Wikimedia_Europe" rel="noreferrer noopener">
+      <img src="assets/logo-wikimedia-eu.svg" alt="Wikimedia Europe" class="logo-org logo-org-pad" />
+    </a>
+  </div>
+
+  <div>
+    <a href="https://openfuture.eu/" rel="noreferrer noopener">
+      <img src="assets/logo-openfuture.png" alt="Open Future" class="logo-org" />
+    </a>
+  </div>
+</div>

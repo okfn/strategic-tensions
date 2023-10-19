@@ -32,3 +32,30 @@ ul {
 .page__footer-copyright {
   text-align: center;
 }
+
+.logo-org-pad {
+  padding: 10px;
+}
+
+
+@media (min-width: 576px) { 
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+  }
+
+  .wrapper > div {
+    padding: 10px;
+    vertical-align: middle;
+  }
+
+}
+
+@media (max-width: 576px) { 
+
+  .logo-org {
+    margin: 10px 50px;
+    max-width: 200px;
+  }
+}
