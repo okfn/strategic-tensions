@@ -1,2 +1,5 @@
 # Docker image to use for building
 image: jekyll/jekyll:4.3
+domains:
+  - tensionsincommons.net
+  - www.tensionsincommons.net
