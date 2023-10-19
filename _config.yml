@@ -21,14 +21,14 @@
 title: Problematizing Strategic Tension Lines in the Digital Commons
 masthead_title: " "
 logo: assets/StrategicTensions_logo.png
-email: your-email@example.com
+email: contact@tensionsincommons.net
 description: >-
   A group of long-term experts, producers, and organizers of the Digital Commons
   gathered in Berlin in May 2023 to discuss and strategize about the future of
   the open movement through a three-day session. The group came to a series of
   conclusions that may serve as a base to better nurture and defend the Digital Commons.
 baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https//tensionsincommons.net"
 
 # Build settings
 theme: minimal-mistakes-jekyll
