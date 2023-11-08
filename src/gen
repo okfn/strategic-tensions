@@ -1,0 +1,2 @@
+#!/bin/bash
+pandoc -f markdown+implicit_figures -s -V geometry:a4paper -V geometry=margin=2.5cm -V geometry=bottom=2cm -V geometry=top=2cm -V fontsize=12pt -o Problematizing_Strategic_Tensions_in_the_Digital_Commons.pdf Problematizing_Strategic_Tensions_in_the_Digital_Commons.md 
