@@ -10,7 +10,16 @@ A group of long-term experts, producers, and organizers of the Digital Commons (
 
 The report presented here serves as one step, summarizing and contextualizing said conclusions. It could also, potentially, be used as a tool for advocacy, organization, and action in the future.
 
-[Read the Report](/report.html){: .btn .btn--primary .btn--large}
+* [Context and background](/report.html#context-and-background)
+* [The "Digital Commons"?](/report.html#the-digital-commons)
+* [Problematization](/report.html#problematization)
+* [The strategic lines of tension](/report.html#the-strategic-lines-of-tension)
+* [Politics](/report.html#politics)
+* [Socio-economics](/report.html#socio-economics)
+* [Equitable participation](/report.html#equitable-participation)
+* [Boundaries of the movements](/report.html#boundaries-of-the-movements)
+* [Next steps](/report.html#next-steps)
+
 
 [Download as PDF (1.9 Mb)](/assets/Problematizing_Strategic_Tensions_in_the_Digital_Commons.pdf){: .btn .btn--info .btn--large}
 
